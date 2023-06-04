@@ -11,9 +11,13 @@
 
 ##
 
+<div style="display: inline_block"><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhenersonRosario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhenersonRosario&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+-->
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jhener-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
