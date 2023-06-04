@@ -14,7 +14,7 @@
 <div style="display: inline_block"><br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhenersonRosario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="Gif" height="200" width="450"
+<img align="right" alt="Gif" height="100" width="300"
      src="https://cdn.discordapp.com/attachments/1114749805000937526/1114749908541526116/39Cg.gif">
  
   
