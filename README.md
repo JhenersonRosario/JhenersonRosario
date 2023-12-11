@@ -1,9 +1,14 @@
 ### Olá, eu sou Jhenerson Silva do Rosario! 👋
 
+🇺🇸
+- 🔭 Currently I'm working as an Advanced English Tutor and Content Creator on my free time.
+- 🌱 I'm currently focused in learning Python for Data Science at the same time, i`m still studying the Front End area.
+- 👨🏻‍💻 Studying Computer Science at UniRitter instituition besides seeking to learn as much as I can about programming languages!
 
-- 🔭 Atualmente trabalho como Professor de Inglês Avançado e Produtor de Conteúdo!
-- 🌱 Atualmente estou focado em aprender Python para Análise de Dados.
-- 👨🏻‍💻 Cursando Ciência da Computação e buscando aprender ao máximo diversas linguagens de programação!
+🇧🇷
+- 🔭 Atualmente trabalho como Professor de Inglês Avançado e Produtor de Conteúdo nas horas vagas!
+- 🌱 Atualmente estou focado em aprender Python para Análise de Dados além de estar estudando a área de Front End.
+- 👨🏻‍💻 Cursando Ciência da Computação na Instituição UniRitter e buscando aprender ao máximo diversas linguagens de programação!
 
 
 
@@ -13,9 +18,7 @@
 
 <div style="display: inline_block"><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhenersonRosario&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-<img align="right" alt="Gif" height="200" width="350"
-     src="https://cdn.discordapp.com/attachments/1114749805000937526/1114749908541526116/39Cg.gif">
+
  
   
 <!--  
