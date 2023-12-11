@@ -39,8 +39,7 @@
 <div> 
   <a href="https://www.tiktok.com/@ocarinhadainformatica" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
   <a href = "mailto:jhenersonrosarioprofissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/jhenerson-rosario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQi4rJnIiDAxXrqJUCHbPlBXwQFnoECA8QAQ&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fjhenerson-rosario&usg=AOvVaw2axGHgjiW83zXb8TTEcAt0&opi=89978449" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 
