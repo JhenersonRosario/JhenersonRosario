@@ -42,37 +42,3 @@
   <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjQi4rJnIiDAxXrqJUCHbPlBXwQFnoECA8QAQ&url=https%3A%2F%2Fbr.linkedin.com%2Fin%2Fjhenerson-rosario&usg=AOvVaw2axGHgjiW83zXb8TTEcAt0&opi=89978449" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-1
-2## My Best Repositories
-3
-4<div style="display: flex; justify-content: space-between;">
-5
-6  <div style="width: 45%;">
-7    <h4>Repository 1</h4>
-8    <p>Description of your first best repository.</p>
-9    <a href="https://github.com/yourusername/repo1" target="_blank">View Repository</a>
-10  </div>
-11
-12  <div style="width: 45%;">
-13    <h4>Repository 2</h4>
-14    <p>Description of your second best repository.</p>
-15    <a href="https://github.com/yourusername/repo2" target="_blank">View Repository</a>
-16  </div>
-17
-18</div>
-19
-20<div style="display: flex; justify-content: space-between;">
-21
-22  <div style="width: 45%;">
-23    <h4>Repository 3</h4>
-24    <p>Description of your third best repository.</p>
-25    <a href="https://github.com/yourusername/repo3" target="_blank">View Repository</a>
-26  </div>
-27
-28  <div style="width: 45%;">
-29    <h4>Repository 4</h4>
-30    <p>Description of your fourth best repository.</p>
-31    <a href="https://github.com/yourusername/repo4" target="_blank">View Repository</a>
-32  </div>
-33
-34</div>
